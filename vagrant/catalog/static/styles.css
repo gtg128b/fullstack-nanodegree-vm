@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+    background-color: palegoldenrod;
+}
+.banner {
+    border: 2px solid;
+    border-radius: 9px;
+    background-color: navy;
+    height: 100px;
+}
+.login {
+    position:absolute; 
+    right: 20px;
+}
+.inset {
+    border: 2px solid;
+    border-radius: 9px;
+    background-color: white;
+    position: relative;
+    top: 10px;
+    width:98%;
+    margin: 0 auto;
+}
+.tablet {
+    width:98%;
+    position: relative;
+    left: 20px;
+}
+.listhead {
+    width:80%;
+    position: relative;
+    top: 10px;
+    vertical-align: top;
+}
+.newthing {
+    float:right;
+}
+.newthingButton {
+    border-radius: 9px;
+}
+.leftlistT {
+    text-align:left;
+    position: relative;
+    vertical-align: top;
+}
+.rightlistT {
+    text-align: left;
+    position: relative;
+    vertical-align: top;
+}
+ .middle {
+    border-left: 3px inset rgb(108, 96, 114);
+    border-collapse: collapse;
+    width:2%;
+}
+.leftlist {
+    text-align: left;
+    width:90%;
+}
+.rightlist {
+    text-align: left;
+    width:90%;
+}
+.messaging {
+    caption-side: bottom;
+}
+h1 { color: #ffffff;
+     position: relative;
+     top: 10px;
+     left: 30px;
+     font-family: 'georgia', serif;
+}
+h2 {
+    color: #080808;
+    font-family: 'georgia', serif;
+}
+h3 {
+    color: #080808;
+    font-family: 'georgia', serif;
+}
+h4 {
+    color: green;
+}
+.header {
+    left: 50%;
+    text-align: center;
+}
+
+
